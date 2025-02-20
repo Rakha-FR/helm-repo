@@ -3,11 +3,11 @@ entries:
   helm-demo-app:
   - apiVersion: v2
     appVersion: latest
-    created: "2025-02-20T05:16:23.986320262Z"
+    created: "2025-02-20T05:20:38.065540896Z"
     description: A Helm chart for deploying demo-app with Nginx
     digest: 82bc8f8f353928bd04ca828ff7e1bd68184c5166eb7088d1efafa91a26c46f57
     name: helm-demo-app
     urls:
-    - https://rakha-fr.github.io/heln-repo/helm-demo-app-1.0.0.tgz
+    - https://rakha-fr.github.io/helm-repo/helm-demo-app-1.0.0.tgz
     version: 1.0.0
-generated: "2025-02-20T05:16:23.986008478Z"
+generated: "2025-02-20T05:20:38.065204085Z"
